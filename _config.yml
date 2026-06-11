@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
 title: Nina Schoener | PhD Candidate
+github:
+  is_project_page: false
