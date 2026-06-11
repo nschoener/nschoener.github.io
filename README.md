@@ -4,4 +4,4 @@ I'm currently a 4th year PhD candidate in Psychology at UC Berkeley, advised by 
 
 [Click here for my CV](nschoener.github.io/NS_CV_06-11-2026.pdf)
 
-<img src="nina_headshot.jpeg">
+<img src="nina_headshot.jpeg" width="500" class="center-block">
